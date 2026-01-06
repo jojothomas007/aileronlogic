@@ -77,7 +77,7 @@ For questions, issues, or feature requests related to this application, please c
 
 ## License
 
-This application is developed for the exclusive use of [Your Church Name] members. All rights reserved.
+This application is developed for the exclusive use of Thekkan Parumala St. Gregorios Orthodox Valiya Pally members. All rights reserved.
 
 ---
 
