@@ -48,21 +48,6 @@ The app collects and displays the following information (already available in pr
 ### For Users
 The app will be available on the Google Play Store for Android devices.
 
-### For Developers
-```bash
-# Clone the repository
-git clone https://github.com/jojothomas007/church-directory.git
-
-# Navigate to project directory
-cd church-directory
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
 ## Development
 
 This is an active development project. The app is being built with:
