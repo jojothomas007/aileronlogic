@@ -1,0 +1,65 @@
+# Privacy Policy – Parish Directory App
+
+The Parish Directory App is developed for the exclusive use of Thekkan Parumala St. Gregorios Orthodox Valiya Pally members. This Privacy Policy explains how we collect, use, and protect your information.
+
+---
+
+## Information We Collect
+The app collects and displays information that is already available in printed parish directories:
+- Member names and contact information
+- Family relationships
+- Ward assignments
+- Roll numbers
+- Profile photos (optional)
+- Birthdays (month and day only)
+
+---
+
+## How We Use Information
+We use this information to:
+- Provide a secure digital parish directory accessible only to registered members
+- Maintain accurate family and ward records
+- Enable search and filtering features within the app
+- Support community engagement within the parish
+
+---
+
+## Data Storage & Security
+- All data is stored securely in **Firebase Firestore** and **Firebase Storage** (Google services).
+- Access is restricted to authenticated members via **Firebase Authentication** with whitelisting.
+- Data transmissions are encrypted, and access is limited to authorized users only.
+
+---
+
+## Sharing of Information
+- We do **not** share personal information with third parties.
+- Data is only accessible to authorized church members.
+- Firebase, as a service provider, processes data securely on behalf of the parish.
+
+---
+
+## User Rights
+- Members may request corrections or removal of their data by contacting the church administration.
+- Support requests can be submitted via the app or through the parish office.
+- Users can withdraw access by requesting account deactivation.
+
+---
+
+## Compliance
+This app complies with applicable data protection regulations in the regions where it is distributed.  
+We are committed to protecting member privacy and ensuring responsible use of personal information.
+
+---
+
+## Contact
+For questions or concerns about this Privacy Policy, please contact the church administration:
+
+**Thekkan Parumala St. Gregorios Orthodox Valiya Pally**  
+Email: [provide official parish email here]  
+Phone: [provide parish office phone number here]
+
+---
+
+**Effective Date:** January 10, 2026  
+**Developer:** Jojo Thomas  
+**Purpose:** Parish Community Directory Management  
